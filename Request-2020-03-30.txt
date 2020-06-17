@@ -16,10 +16,7 @@ Damien Fix 2
 	https://updater.webwag.com/json/timer.json 
 	An error occurred while sending the request.
 	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
-30/03/2020 10:33:31
-	https://updater.webwag.com/dll/vdev//dll.json 
-	An error occurred while sending the request.
-	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+ requise. 
 30/03/2020 10:33:58
 	https://updater.webwag.com/json/timer.json 
 	An error occurred while sending the request.
