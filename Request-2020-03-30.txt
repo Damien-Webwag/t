@@ -58,3 +58,5 @@ Damien 3
 	An error occurred while sending the request.
 	Impossible de se connecter au serveur distant 
 
+	Damien 4
+
