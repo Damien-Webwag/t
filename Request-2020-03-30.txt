@@ -7,7 +7,7 @@ Damien Fix 2
 30/03/2020 10:28:50
 	https://updater.webwag.com/json/timer.json 
 	An error occurred while sending the request.
-	Impossible  au serveur d
+	Impossible de se connecter au dq serveur dqdsd
 30/03/2020 10:28:50
 	https://updater.webwag.com/dll/vdev//dll.json 
 	An error occurred while sending the request.
