@@ -1,0 +1,62 @@
+30/03/2020 10:26:35
+	Login :
+	https://cockpit-socle.webwag.com/group_heads/search.json 
+	An error occurred while sending the request.
+	Impossible de se connecter au serveur distant 
+30/03/2020 10:28:50
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Impossible de se connecter au serveur distant 
+30/03/2020 10:28:50
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Impossible de se connecter au serveur distant 
+30/03/2020 10:33:30
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 10:33:31
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 10:33:58
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 10:33:58
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:40:15
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:40:16
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:43:23
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:43:23
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:46:41
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 14:46:41
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Le serveur distant a retourné une erreur : (407) Authentification proxy requise. 
+30/03/2020 16:59:02
+	https://updater.webwag.com/json/timer.json 
+	An error occurred while sending the request.
+	Impossible de se connecter au serveur distant 
+30/03/2020 16:59:02
+	https://updater.webwag.com/dll/vdev//dll.json 
+	An error occurred while sending the request.
+	Impossible de se connecter au serveur distant 
+
